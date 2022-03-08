@@ -1,10 +1,10 @@
 ---
-title: 'Mergers'
-date: 2018-11-28T15:15:34+10:00
+title: 'Data Analytics'
+date: 2021-11-28T15:15:34+10:00
 icon: 'services/service-icon-4.png'
 featured: true
 draft: false
-heroHeading: 'Mergers & Acquisitions'
+heroHeading: 'Data Analytics'
 heroSubHeading: 'Thinking of acquiring another business? Let us guide you through the process.'
 heroBackground: 'services/service2.jpg'
 ---

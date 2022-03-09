@@ -6,7 +6,7 @@ weight: 100
 heroHeading: 'Work'
 heroSubHeading: 'Our portfolio and previous projects'
 heroBackground: 'https://source.unsplash.com/1600x900/?architecture'
-image: 'work/work1.jpg'
+image: 'work/L1002199_r.jpg'
 ---
 
 Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
